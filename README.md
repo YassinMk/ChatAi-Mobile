@@ -1,4 +1,4 @@
-# ChatGPT Basic Android
+# ChatAi Basic Android
 ## Features
 
 - Simple and clean user interface
